@@ -7,11 +7,12 @@ body
 {
     background-color: rgb(236, 236, 192);
 }
-p
-{
-    background-color: rgba(198, 247, 226, 0.938);
-}
+
 ul
 {
-    color: rgb(154, 154, 248);
+    color: rgb(94, 105, 97);
+}
+a
+{
+    color: rgb(105, 129, 129);
 }
