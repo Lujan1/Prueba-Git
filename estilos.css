@@ -1,13 +1,17 @@
 h1
 {
-    color: rgb(195, 233, 125);
+    color: rgb(94, 134, 194);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 body
 {
-    background-color: beige;
+    background-color: rgb(236, 236, 192);
 }
 p
 {
-    background-color: antiquewhite;
+    background-color: rgba(198, 247, 226, 0.938);
+}
+ul
+{
+    color: rgb(154, 154, 248);
 }
